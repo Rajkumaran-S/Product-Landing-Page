@@ -19,7 +19,7 @@ This project is a simple, visually appealing loading page designed to be display
 
 1.  **Clone or Download the Repository:**
     ```bash
-    git clone [repository URL]
+    git clone [https://github.com/Rajkumaran-S/Product-Landing-Page.git]
     ```
     or download the ZIP archive and extract it.
 
